@@ -72,7 +72,7 @@
 
 ## 📖 프로젝트 일정 Gantt :fire:
 
-```axisFormat
+```mermaid
 gantt
     title 📅 프로젝트 일정 Gantt Chart (월 기준)
     dateFormat  YYYY-MM-DD
