@@ -223,7 +223,7 @@ gantt
 ## 2. 기술 스택 ⚙️
 
 #### 2.1 데이터 수집 📝
-- **Python, BeautifulSoup**: IPTV 채널별 프로그램 웹 데이터 크롤링
+- **Python, BeautifulSoup**: OTT별 프로그램 웹 데이터 크롤링
 - **Open API 활용**: 방송통신위원회 방송통계포털 API 활용, OTT 플랫폼에서 제공하는 시청 이력 데이터 수집
 
 #### 2.2 데이터 분석 🔍
