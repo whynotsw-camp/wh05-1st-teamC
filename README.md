@@ -19,8 +19,6 @@
 - 비주류 영화, 독립 영화, 해외 작품 등의 노출 기회 증가
 
 ### 화면 구성:
-![Image](https://github.com/user-attachments/assets/f0603c49-d52f-4567-8a15-68eb5250b71c) -> ![Image](https://github.com/user-attachments/assets/d9818a70-c4b5-4706-be4c-3a16de3cfe54) -> ![Image](https://github.com/user-attachments/assets/08e5d614-b17a-4d50-9aa1-4ee9029767c8)
-![Image](https://github.com/user-attachments/assets/1ac047a6-132d-4b92-8ca5-46778b4878b9)
-![Image](https://github.com/user-attachments/assets/8b0f84a3-a094-4c83-863c-ef8902731009)
-![Image](https://github.com/user-attachments/assets/8b9667aa-319f-43c0-a5d7-20c52ca19817)
+
+![Image](https://github.com/user-attachments/assets/8b0f84a3-a094-4c83-863c-ef8902731009) -> ![Image](https://github.com/user-attachments/assets/8b9667aa-319f-43c0-a5d7-20c52ca19817)
 
