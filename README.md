@@ -62,6 +62,9 @@
   <img src="https://github.com/user-attachments/assets/a65b3c7e-a6c4-4347-be09-4a3ad5e7e069" height="450"/>
 </p>
 
+## 📖 Gantt :fire:
+
+```mermaid
 gantt
     title 프로젝트 일정
     dateFormat  YYYY-MM-DD
@@ -140,6 +143,7 @@ gantt
 
     section 최종 발표
     최종 발표 및 데모 진행 :a19, 2024-08-01, 4d
+```
 
 
 
