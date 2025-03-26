@@ -20,3 +20,5 @@
 
 ### 화면 구성:
 
+![Image](https://github.com/user-attachments/assets/f543a2e2-1fb9-48ae-a3c4-20798983b6f6)
+![Image](https://github.com/user-attachments/assets/21d4c16f-6e57-4dbe-8b53-d703aac6985a)
