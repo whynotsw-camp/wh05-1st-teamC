@@ -20,22 +20,26 @@
 
 ### 팀원 소개
 
-<p align="center">
-  <a href="https://github.com/kkch1012" target="_blank">
-    <img src="https://github.com/user-attachments/assets/0512d74a-1598-40ab-8c5d-fe948cb112e5" width="160"/><br/>
-    <strong>김찬호</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jcbhama0528" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c7f913ad-1e35-4326-9b8e-44a9cb038c9a" width="160"/><br/>
-    <strong>최동연</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/sungjae0309" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a10bd66d-c019-4c88-8c72-a8ddd3b6cc40" width="160"/><br/>
-    <strong>이성재</strong>
-  </a>
-</p>
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="https://github.com/user-attachments/assets/0512d74a-1598-40ab-8c5d-fe948cb112e5" width="160"/><br/>
+      <strong>김찬호</strong><br/>
+      <a href="https://github.com/kkch1012" target="_blank">github.com/kkch1012</a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c7f913ad-1e35-4326-9b8e-44a9cb038c9a" width="160"/><br/>
+      <strong>최동연</strong><br/>
+      <a href="https://github.com/jcbhama0528" target="_blank">github.com/jcbhama0528</a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a10bd66d-c019-4c88-8c72-a8ddd3b6cc40" width="160"/><br/>
+      <strong>이성재</strong><br/>
+      <a href="https://github.com/sungjae0309" target="_blank">github.com/sungjae0309</a>
+    </td>
+  </tr>
+</table>
+
 
 ### 화면 구성:
 
