@@ -23,28 +23,35 @@
 <table align="center">
   <tr align="center">
     <td width="200px">
-      <img src="https://github.com/user-attachments/assets/0512d74a-1598-40ab-8c5d-fe948cb112e5" width="160" height="160"/><br/><br/>
-      <strong>김찬호</strong><br/><br/>
+      <img src="https://github.com/user-attachments/assets/0512d74a-1598-40ab-8c5d-fe948cb112e5" width="160" height="160"/><br/>
+      <hr/>
+      <strong>김찬호</strong><br/>
+      <hr/>
       <a href="https://github.com/kkch1012">
         <img src="https://img.shields.io/badge/GitHub-kkch1012-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="200px">
-      <img src="https://github.com/user-attachments/assets/c7f913ad-1e35-4326-9b8e-44a9cb038c9a" width="160" height="160"/><br/><br/>
-      <strong>최동연</strong><br/><br/>
+      <img src="https://github.com/user-attachments/assets/c7f913ad-1e35-4326-9b8e-44a9cb038c9a" width="160" height="160"/><br/>
+      <hr/>
+      <strong>최동연</strong><br/>
+      <hr/>
       <a href="https://github.com/choidongyeon01">
         <img src="https://img.shields.io/badge/GitHub-jcbhama0528-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="200px">
-      <img src="https://github.com/user-attachments/assets/a10bd66d-c019-4c88-8c72-a8ddd3b6cc40" width="160" height="160"/><br/><br/>
-      <strong>이성재</strong><br/><br/>
+      <img src="https://github.com/user-attachments/assets/a10bd66d-c019-4c88-8c72-a8ddd3b6cc40" width="160" height="160"/><br/>
+      <hr/>
+      <strong>이성재</strong><br/>
+      <hr/>
       <a href="https://github.com/sungjae0309">
         <img src="https://img.shields.io/badge/GitHub-sungjae0309-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ### 화면 구성:
