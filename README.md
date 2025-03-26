@@ -28,7 +28,7 @@
       <strong>김찬호</strong><br/>
       <hr style="border: 2px solid black; width: 80%;"/>
       <a href="https://github.com/kkch1012">
-        <img src="https://img.shields.io/badge/GitHub-kkch1012-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="200px">
@@ -37,7 +37,7 @@
       <strong>최동연</strong><br/>
       <hr style="border: 2px solid black; width: 80%;"/>
       <a href="https://github.com/choidongyeon01">
-        <img src="https://img.shields.io/badge/GitHub-jcbhama0528-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="200px">
@@ -46,11 +46,12 @@
       <strong>이성재</strong><br/>
       <hr style="border: 2px solid black; width: 80%;"/>
       <a href="https://github.com/sungjae0309">
-        <img src="https://img.shields.io/badge/GitHub-sungjae0309-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
