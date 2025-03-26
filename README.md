@@ -32,7 +32,7 @@
     <td width="200px">
       <img src="https://github.com/user-attachments/assets/c7f913ad-1e35-4326-9b8e-44a9cb038c9a" width="160" height="160"/><br/><br/>
       <strong>최동연</strong><br/><br/>
-      <a href="https://github.com/jcbhama0528">
+      <a href="https://github.com/choidongyeon01">
         <img src="https://img.shields.io/badge/GitHub-jcbhama0528-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
