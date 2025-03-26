@@ -62,6 +62,9 @@
   <img src="https://github.com/user-attachments/assets/a65b3c7e-a6c4-4347-be09-4a3ad5e7e069" height="450"/>
 </p>
 
+### 데이터 베이스 설계(ERD):
+![Image](https://github.com/user-attachments/assets/ad353fe3-68dc-4234-a4c1-5dcba012ab0b)
+
 
 
 
