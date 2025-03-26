@@ -72,7 +72,7 @@
 
 ## 📖 프로젝트 일정 Gantt :fire:
 
-![Image](https://github.com/user-attachments/assets/98fd16dd-df47-4fa0-9246-914bed85826a)
+![Image](https://github.com/user-attachments/assets/83deeeb1-0549-49a0-a1ac-a1e472fa8202)
 
 
 
